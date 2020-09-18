@@ -1,4 +1,4 @@
-Sheridan Event Management using Spring Boot
+# Sheridan Event Management using Spring Boot
 
 We created a project on Sheridan events which will make it easy for students to view, purchase and participate in events that are organized in Sheridan college campuses. The project is supposed to fulfill the problem as the current system only displays the events but doesn’t allow the student to purchase tickets and can’t tell when the tickets are sold out. Thus, making it hard for the students to participate in exciting events that take place in the Sheridan community. 
 
